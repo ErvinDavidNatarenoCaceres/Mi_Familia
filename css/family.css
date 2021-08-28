@@ -1,0 +1,184 @@
+.TITULO{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 120px;
+    text-align: center;
+}
+.boton1{
+    font-family: 'Permanent Marker', cursive;
+    display: block;
+background-color: green;
+width: 80px;
+padding: 10px 40px 10px 40px;
+border-radius: 20px;
+text-align: center;
+color: #fff;
+text-decoration: none;
+font-size: 25px;
+    
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);   
+}
+.boton1 hover{
+     background-color: green;
+    color: black;
+    width: 120px;
+    transition: 0.3s;
+}
+.boton2{
+    font-family: 'Permanent Marker', cursive;
+    display: block;
+background-color: green;
+width: ;
+padding: 10px 40px 10px 40px;
+border-radius: 20px;
+text-align: center;
+color: #fff;
+text-decoration: none;
+font-size: 25px;
+    
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);   
+}
+.boton2 hover{
+     background-color: green;
+    color: black;
+    width: 120px;
+    transition: 0.3s;
+}
+.boton3{
+    font-family: 'Permanent Marker', cursive;
+    display: block;
+background-color: green;
+width: 290px;
+padding: 10px 40px 10px 40px;
+border-radius: 20px;
+text-align: center;
+color: #fff;
+text-decoration: none;
+font-size: 25px;
+    
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);   
+}
+.boton3 hover{
+     background-color: green;
+    color: black;
+    width: 120px;
+    transition: 0.3s;
+}
+.boton4{
+    font-family: 'Permanent Marker', cursive;
+     display: block;
+background-color: green;
+width: 100px;
+padding: 10px 40px 10px 40px;
+border-radius: 20px;
+text-align: center;
+color: #fff;
+text-decoration: none;
+font-size: 25px;
+    
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);   
+}
+.boton4 hover{
+     background-color: green;
+    color: black;
+    width: 120px;
+    transition: 0.3s;
+}
+.boton5{
+    font-family: 'Permanent Marker', cursive;
+     display: block;
+background-color: green;
+width: 100px;
+padding: 10px 40px 10px 40px;
+border-radius: 20px;
+text-align: center;
+color: #fff;
+text-decoration: none;
+font-size: 25px;
+    
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);   
+}
+.boton5{
+     background-color: green;
+    color: white;
+    width: 120px;
+    transition: 0.3s;
+}
+.boton6{
+    font-family: 'Permanent Marker', cursive;
+     display: block;
+background-color: green;
+width: 80px;
+padding: 10px 40px 10px 40px;
+border-radius: 20px;
+text-align: center;
+color: #fff;
+text-decoration: none;
+font-size: 25px;
+    
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);   
+}
+.boton6 hover{
+    background-color: green;
+    color: white;
+    width: 120px;
+    transition: 0.3s;
+}
+.boton7{
+    font-family: 'Permanent Marker', cursive;
+     display: block;
+background-color: green;
+width: 80px;
+padding: 10px 40px 10px 40px;
+border-radius: 20px;
+text-align: center;
+color: #fff;
+text-decoration: none;
+font-size: 25px;
+    
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);   
+}
+.boton7 hover{
+    background-color: green;
+    color: white;
+    width: 120px;
+    transition: 0.3s;
+}
+.rana{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 200px;
+}
+.imagentodos{
+    align-self: center;
+    padding: 100px;
+    display: flex;
+    justify-content: flex-start;
+    height: 700px;
+    width: 700px;
+    margin: auto;
+}
+.name1{
+    font-size: 100px;
+    text-align: center;
+}
+.pipi{
+    text-align: center;
+    font-size: 30px;
+}
